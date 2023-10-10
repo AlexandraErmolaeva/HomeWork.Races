@@ -1,0 +1,14 @@
+C:\Users\alexi\source\repos\Races\Races\bin\Debug\net7.0\Races.exe
+C:\Users\alexi\source\repos\Races\Races\bin\Debug\net7.0\Races.deps.json
+C:\Users\alexi\source\repos\Races\Races\bin\Debug\net7.0\Races.runtimeconfig.json
+C:\Users\alexi\source\repos\Races\Races\bin\Debug\net7.0\Races.dll
+C:\Users\alexi\source\repos\Races\Races\bin\Debug\net7.0\Races.pdb
+C:\Users\alexi\source\repos\Races\Races\obj\Debug\net7.0\Races.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\Races\Races\obj\Debug\net7.0\Races.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\Races\Races\obj\Debug\net7.0\Races.AssemblyInfo.cs
+C:\Users\alexi\source\repos\Races\Races\obj\Debug\net7.0\Races.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Races\Races\obj\Debug\net7.0\Races.dll
+C:\Users\alexi\source\repos\Races\Races\obj\Debug\net7.0\refint\Races.dll
+C:\Users\alexi\source\repos\Races\Races\obj\Debug\net7.0\Races.pdb
+C:\Users\alexi\source\repos\Races\Races\obj\Debug\net7.0\Races.genruntimeconfig.cache
+C:\Users\alexi\source\repos\Races\Races\obj\Debug\net7.0\ref\Races.dll
